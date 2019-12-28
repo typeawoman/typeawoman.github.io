@@ -135,6 +135,12 @@ img {
   color: $darkGray;
   padding-bottom: 20px;
 }
+.posthead {
+  font-family: $helvetica;
+  font: 10px;
+  color: $darkGray;
+  padding-bottom: 10px;
+}
 
 // Specify the color of the selection
 ::-moz-selection {
