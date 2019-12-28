@@ -16,7 +16,10 @@ layout: default
 
   <div class="cat">
     <!--Written on {{ page.date | date: "%B %e, %Y" }}-->
-  Categories: {{ page.categories }}  &nbsp;
+  Categories: {% for cat in page.categories %}
+         {{ cat }},
+         {% endfor %}
+     &nbsp; &nbsp;
    Tags: {% for tags in page.tags %}
          #{{ tags }}
          {% endfor %}
