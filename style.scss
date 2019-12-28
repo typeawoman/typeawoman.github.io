@@ -40,11 +40,11 @@ h1, h2, h3, h4, h5, h6 {
   display:block;
   text-align:left;
   line-height: 125%;
-  margin: 1em 0 15px;
+  margin: 1em 0 1.3em;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.5;
   }
 }
 
@@ -76,7 +76,7 @@ h4 {
 
 p {
   margin: 14px 0;
-  line-height: 150%;
+  line-height: 200%;
   font-size:16px;	
   display: block;
   color: $darkGray;
@@ -131,14 +131,14 @@ img {
 
 .date {
   font-family: $helvetica;
-  font: 12px;
+  font-size: 12px;
   color: $darkGray;
   padding-bottom: 20px;
 }
 .posthead {
   font-family: $helvetica;
-  font: 10px;
-  color: $darkGray;
+  font-size: 12px;
+  color: $lightGray;
   padding-bottom: 10px;
 }
 
@@ -173,7 +173,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   
   @include mobile {
     text-align: center; 
@@ -182,7 +182,7 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 25px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
