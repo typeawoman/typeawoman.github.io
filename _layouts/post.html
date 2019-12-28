@@ -16,9 +16,9 @@ layout: default
 
   <div class="date">
     <!--Written on {{ page.date | date: "%B %e, %Y" }}-->
-  Categories: {{ page.categories }} 
+  Categories: {{ page.categories }}  &nbsp;
    Tags: {% for tags in page.tags %}
-         {{ tags }},
+         #{{ tags }}
          {% endfor %}
   </div>
   
