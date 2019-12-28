@@ -140,6 +140,7 @@ img {
   font-size: 14px;
   color: #a6a6a6;
   padding-bottom: 0.5em;
+  text-align: right;
 }
 
 // Specify the color of the selection
@@ -288,7 +289,7 @@ nav {
   border-bottom: 1px solid $lightGray;
 	
   @include mobile {
-  padding: 3px 18px;
+  padding: 3px 22px;
   padding-bottom: 2em;
   }
 }
@@ -298,7 +299,7 @@ nav {
   border-bottom: 1px solid $lightGray;
   
   @include mobile {
-    padding: 3px 18px;
+    padding: 3px 22px;
     padding-bottom: 2em;
   }
   //border-bottom: none;
