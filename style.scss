@@ -142,6 +142,12 @@ img {
   padding-bottom: 0.5em;
   text-align: right;
 }
+.cat {
+  text-align: right;
+  font-family: $helvetica;
+  font-size: 14px;
+  color: #a6a6a6;
+}
 
 // Specify the color of the selection
 ::-moz-selection {
