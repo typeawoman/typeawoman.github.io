@@ -6,8 +6,8 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   <div class="posthead">
-    {{ page.date | date: "%b %d, %Y" }}
-    {{ page.categories | prepend: "Categories" }}
+    {{ page.date | date: "%b %d, %Y" }}, 
+    {{ page.categories | prepend: "Categories " }}
   </div>
   
   <div class="entry">
