@@ -9,7 +9,8 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <div class="posthead">
       {{ post.date | date: "%b %d, %Y" }}, 
-      
+      {{ post.words }}
+  </div>
       <!--{{ post.categories | prepend: "Categories " }}-->
       </div>
       {% include read_time.html %}

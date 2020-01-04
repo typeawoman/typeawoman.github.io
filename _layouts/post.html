@@ -8,10 +8,7 @@ readtime: read_time.html
 
   <div class="posthead">
     {{ page.date | date: "%b %d, %Y" }},
-    {% if page.readtime %}
-      {% include {{ page.readtime }} %}
-    {% endif %} 
-    <!--{% include read_time.html %}-->
+    {% include read_time.html %}>
   </div>
   
   <div class="entry">
@@ -21,7 +18,7 @@ readtime: read_time.html
   <div class="cat">
     <!--Written on {{ page.date | date: "%B %e, %Y" }}-->
   Categories: {% for cat in page.categories %}
-         {{ cat }},
+         {{ cat }} &nbsp;
          {% endfor %}
      &nbsp; &nbsp;
    Tags: {% for tags in page.tags %}
