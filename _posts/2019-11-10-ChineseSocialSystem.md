@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 You probably have heard about this <em>Orwellian evil</em> social score that the Chinese government devised to spy on the wrongdoings of its people and to even further restrict individual freedom in the Middle Kingdom.
 
-I came across this wonderful and thoughtful <a href="https://technode.com/2019/10/31/china-tech-talk-86-chinas-social-credit-system-everything-you-know-is-wrong-with-kendra-schaefer/" style="color: #d40202;font-weight: normal;text-decoration: underline;" target="_blank">podcast</a> (˜45min) that dissects the social score from a Chinese perspective and then decomposes and translates it into a Western culture context. It ressonates well with my view and I can very much recommend it.
+I came across this wonderful and thoughtful <a href="https://technode.com/2019/10/31/china-tech-talk-86-chinas-social-credit-system-everything-you-know-is-wrong-with-kendra-schaefer/" style="color: #d40202;font-weight: normal;text-decoration: underline;" target="_blank">podcast</a> (˜45min) that dissects the social score from a Chinese perspective and then decomposes and translates it into a Western culture context. It ressonates well with my view and I can very much recommend it.<!--more-->
 
 The way I like to describe the Chinese social score is that it is actually very much like a Western <em>credit</em> score. A score that measures historic transaction data and spending behavior of an individual, signaling to the market how reliable this person is.
 

@@ -10,8 +10,8 @@ layout: default
       <div class="posthead">
           <!--{{ post.date | date: "%b %d, %Y" }}, -->
       <span class="post-date">
-        <i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - 
-        <i class="fa fa-clock-o" aria-hidden="true"></i>    {% include read_time.html %} -
+        <i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} &nbsp; &nbsp; &nbsp;
+        <i class="fa fa-clock-o" aria-hidden="true"></i>    {% include read_time.html %} &nbsp; &nbsp; &nbsp;
         <i class="fa fa-folder" aria-hidden="true"></i>  
         {% for cat in post.categories %}
          {{ cat }} 
