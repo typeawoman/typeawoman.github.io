@@ -11,7 +11,7 @@ Networking has never been about deep conversations.<span style="color:#d40202; f
 I go to a lot of those events these days, and while I still don't particularly like to sell-pitch myself on loop, I recognize the importance of meeting new contacts.
 
 When I engage in a new conversation, I try to follow two rules to ensure that 1) I make a good impression and 2) I am memorable beyond the 1000 people this person has already seen today.
-![_config.yml]({{ site.baseurl }}/images/networking.png)
+(/images/networking.png "Step 1")
 <!--more-->
 <span style="color:#d40202; font-weight: bold">Offer stories and a smooth conversation-baton-handover. </span>
 When people ask where you are from, don’t answer with a one word reply like <em>Munich</em>. It’s hard to keep such a conversation flowing.
