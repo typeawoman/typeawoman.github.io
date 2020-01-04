@@ -110,6 +110,7 @@ ol ul, ul ol, ul ul, ol ol {
 
 ul ul, ol ul {
   list-style-type: circle;
+  line-height: 200%;
 }
 
 em, i {
@@ -146,6 +147,10 @@ img {
   color: #a6a6a6;
   padding-bottom: 0.5em;
   text-align: right;
+  @include mobile {
+    text-align: center;
+  }
+}
 }
 .cat {
   text-align: right;
