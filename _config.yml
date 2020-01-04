@@ -17,19 +17,13 @@ avatar: https://eep.io/mc-gallery/6f5d2dcd15e06f2cbaec4c076/images/0e7df4c5-81d9
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: mail@typeawoman.com
+  twitter: typeawoman
   facebook:
-  flickr:
   github: 
   instagram:
   linkedin:
-  pinterest:
   rss: typeawoman
-  twitter: typeawoman
-  stackoverflow: 
-  youtube: 
-  googleplus: 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
