@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leadership: Asking how and what instead of why
+title: Leadership - Asking how and what instead of why
 categories: Leadership
 tags: [leadership, influencing, conflictmgmt]
 excerpt_separator: <!--more-->
