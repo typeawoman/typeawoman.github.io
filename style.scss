@@ -121,7 +121,12 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #ddd;
+    margin-top: 14px;
 }
 
 // Fixes images in popup boxes from Google Translate
