@@ -357,7 +357,7 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 20px;
+  margin-top: 10px;
   //border-top: 1px solid #ddd;
   //border-bottom: 1px solid #ddd;
   //background-color: $lightGray;
@@ -368,7 +368,10 @@ footer {
   text-align: center;
   font-size: 14px;
   line-height: 100%;
-
+     @include mobile {
+        padding: 3px 22px;
+        padding-bottom: 2em;
+  }
 }
 
 
