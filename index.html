@@ -11,7 +11,7 @@ layout: default
           <!--{{ post.date | date: "%b %d, %Y" }}, -->
       <span class="post-date">
         <i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - 
-        <i class="fa fa-clock-o" aria-hidden="true"></i> 
+        <i class="fa fa-clock-o" aria-hidden="true"></i>    {% include read_time.html %}
       </span>    
       </div>
       <!--{{ post.categories | prepend: "Categories " }}-->
