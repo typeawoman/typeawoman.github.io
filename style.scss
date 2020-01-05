@@ -273,11 +273,14 @@ img {
      line-height: 150%;
   }
 }
-label {
-  display: inline-block;
+#mc_embed_signup label {
   font-size: 12px;
-  width: 100px;
   text-align: left;
+    @include mobile {
+     display: block;
+     margin: 7px 1px;
+     line-height: 150%;
+  }
 }​
 
 nav {
