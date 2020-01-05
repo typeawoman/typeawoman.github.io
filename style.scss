@@ -295,7 +295,7 @@ img {
     text-align: right;
     font-weight: 300;
     letter-spacing: 0px;
-	&:hover, &:active {
+	   &:hover, &:active {
         color: $hl;
     }
     @include mobile {
