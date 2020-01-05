@@ -273,6 +273,17 @@ img {
      line-height: 150%;
   }
 }
+.site-description 2 {
+  margin: -5px 0 0 0;
+  color: $darkGray;
+  font-size: 16px;
+
+  @include mobile {
+     display: block;
+     margin: 7px 1px;
+     line-height: 150%;
+  }
+}
 
 nav {
   float: right;
