@@ -63,21 +63,27 @@
                 font-weight: normal;
                 padding-right: 20px;
                 display: inline-block;
-
-                @include mobile {
-                   display: block;
-                   margin: 7px 1px;
-                   text-align: center;
-                   padding: 0px 0px;
-                  
-                }
             }​
+            #mc_embed_signup form {
+                text-align: center;
+                padding: 15px 0 10px 0;
+            }
             @media (max-width: 768px)
-            #mc_embed_signup .button 
+            #mc_embed_signup .button { 
                   width: 300px;
                   margin: 0;
     
             }
+            @media (max-width: 768px)
+              #mc_embed_signup label {
+                   display: block;
+                   margin: 7px 1px;
+                   padding-right: 0px;
+                   text-align: center;
+                   padding: 0px 0px;
+                  
+            }
+
           </style>
           <div id="mc_embed_signup">
             <form action="https://wangchristine.us20.list-manage.com/subscribe/post?u=6f5d2dcd15e06f2cbaec4c076&amp;id=6d64ccb040" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
