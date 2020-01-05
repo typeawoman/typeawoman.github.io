@@ -33,6 +33,9 @@ disqus: typeawoman
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+mailchimp-list: https://wangchristine.us20.list-manage.com/subscribe/post?u=6f5d2dcd15e06f2cbaec4c076&amp;id=6d64ccb040
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://www.typeawoman.com
