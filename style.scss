@@ -273,17 +273,8 @@ img {
      line-height: 150%;
   }
 }
-#mc_embed_signup label {
-  font-size: 12px;
-  text-align: left;
-    @include mobile {
-     display: block;
-     margin: 7px 1px;
-     line-height: 150%;
-  }
-}​
 
-nav {
+.nav {
   float: right;
   margin-top: 24px; // @TODO: Vertically middle align
   font-family: $helvetica;
