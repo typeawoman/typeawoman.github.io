@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Hello
 permalink: /about/
 ---
 
-Some information about you!
+Career, dating, life dealings are hard, and you are not alone with those tough questions and doubts.
 
-### More Information
+Our newsletter provides authentic, untarnished views on life, leadership and the world. We say how things truly are and tell you things noone will ever directly tell you.
 
-A place to include any other types of information that you'd like to include about yourself.
+Our aim is to inspire, activate thinking and foster connections among strong-minded women.
 
-### Contact me
+Be part of the community by subscribing to the newsletter!
 
-[email@domain.com](mailto:email@domain.com)
+### Contact 
+
+[mail@typeawoman.com](mailto:mail@typeawoman.com)
