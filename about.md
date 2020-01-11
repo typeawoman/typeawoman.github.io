@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hello
+title: Glad to see you hear!
 permalink: /about/
 ---
 
-Career, dating, life dealings are hard, and you are not alone with those tough questions and doubts.
+Career, dating, life are all important parts of who we are and what dominates our time. It is good that we are not alone with figuring those parts out for ourselves. Most often than not we face similar questions and challenges and it's good to share how we overcome and tackle those.
 
 Our newsletter provides authentic, untarnished views on life, leadership and the world. We say how things truly are and tell you things noone will ever directly tell you.
 
