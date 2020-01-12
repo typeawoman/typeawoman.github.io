@@ -14,7 +14,7 @@ They give up too quickly (“Oh whatever, they are other girls”).<br>
 
 Looking down a bit deeper, it looks like there are three reasons why someone is not in a relationship<!--more-->:
 
-![Archetypes](/images/archetypes.png "Archetypes of why someone is single")
+![Archetypes](/images/archetype.png "Archetypes of why someone is single")
 
 <span style="color:#d40202; font-weight: bold">Self-centeredness</span>
 First and foremost, these people think of and for themselves: <em>What is in it for them? What is it that THEY don't want and need.</em> There is little room for another person, and there is an unwillingness to adapt to be a team.
