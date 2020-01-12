@@ -6,7 +6,7 @@ tags: [book, leadership, routines]
 excerpt_separator: <!--more-->
 ---
 
-A while ago, I read the book upon recommendation and it really changed my thinking. In one of the earlier newsletter, I wrote about <a href="https://typeawoman.github.io/Morningroutine/" style="color: #d40202;font-weight: normal;text-decoration: underline;" target="_blank">my morning habits</a> and it was a lot inspired by what I read.
+A while ago, I read the book upon recommendation and it really changed my thinking (I uploaded the book <a href="https://drive.google.com/file/d/1lbAno5E5vhaEClyS3ETb-XfoTZdp1shq/view?usp=drive_open" style="color: #d40202;font-weight: normal;text-decoration: underline;" target="_blank">here</a> for you). In one of the earlier newsletter, I wrote about <a href="https://typeawoman.github.io/Morningroutine/" style="color: #d40202;font-weight: normal;text-decoration: underline;" target="_blank">my morning habits</a> and it was a lot inspired by what I read.
 
 James argues in his book that people don't stick to good habits and continue with bad habits. Why is that? It is because bad habits typically are easier, more available and give you instant gratification (think about eating chocolate, you only get fat later).
 <!--more-->
