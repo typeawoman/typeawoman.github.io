@@ -2,36 +2,35 @@
 layout: default
 ---
 
-
+<div class="posts">
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-  <div class="content">
-    {{ post.content }}
-  </div>
-{% endfor %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="posthead">
+          <!--{{ post.date | date: "%b %d, %Y" }}, -->
+      <span class="post-date">
+        <i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} &nbsp; &nbsp; 
+        <i class="fa fa-clock-o" aria-hidden="true"></i>    {% include read_time.html %} &nbsp; &nbsp; 
+        <i class="fa fa-folder" aria-hidden="true"></i>  
+        {% for cat in post.categories %}
+         {{ cat }} 
+         {% endfor %}
+      </span>    
+      </div>
+      <!--{{ post.categories | prepend: "Categories " }}-->
+      <!--{% include read_time.html %}-->
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+{% endfor %}
 </div>
+  
+<!-- Pagination links -->
+
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -57,4 +56,5 @@ layout: default
   {% endif %}
 </div>
 {% endif %}
+
 
