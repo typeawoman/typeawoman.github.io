@@ -20,11 +20,11 @@ layout: default
   <div class="cat">
     <!--Written on {{ page.date | date: "%B %e, %Y" }}-->
   Categories: {% for cat in page.categories %}
-         {{ cat }}
+   <a style="text-decoration: none; color: #a6a6a6;" href="https://typeawoman.github.io/categories/">  {{ cat }}</a>
          {% endfor %}
      &nbsp; &nbsp;
    Tags: {% for tags in page.tags %}
-         #{{ tags }}
+   <a style="text-decoration: none; color: #a6a6a6;" href="https://typeawoman.github.io/tags/">       #{{ tags }} </a>
          {% endfor %}
   </div>
   
