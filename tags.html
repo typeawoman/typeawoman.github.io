@@ -9,7 +9,9 @@ title: Tag
     <a style="text-decoration: none; color: #202020;" href="#{{ tag[0] | slugify }}" class="post-tag">#{{ tag[0] }}</a>&nbsp;&nbsp;&nbsp;
     {% endfor %}
   </div>
+  <br>
   <hr/>
+
   <div class="tags-expo-section">
     {% for tag in site.tags %}
     <h2 id="{{ tag[0] | slugify }}">#{{ tag | first }}</h2>
