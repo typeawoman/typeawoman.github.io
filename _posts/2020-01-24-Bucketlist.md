@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bucket list 2020
-categories: Lift
+categories: Life
 tags: [2020, life, bucketlist]
 excerpt_separator: <!--more-->
 ---
