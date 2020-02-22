@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Money and financial management (Part 1 Basics)
+title: Money and financial management Part 1 
 categories: Life
 tags: [life, money, millionaire]
 excerpt_separator: <!--more-->
