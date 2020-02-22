@@ -10,15 +10,13 @@ Have you ever thought about becoming a millionaire before?
 
 It was never on my bucket list. I grew up in an environment where being rich was frowned upon. So, I never actively strove for money, and instead dedicated myself to more noble goals like traveling and learning.
 
-But wait. <span style="color:#d40202; font-weight: bold">Why not?</span><!--more-->
+<br>But wait. <span style="color:#d40202; font-weight: bold">Why not?</span><!--more-->
 
 Besides accepting those established social values around me, personally, <span style="color:#d40202; font-weight: bold">it never occured to me</span> that I <em>could</em> become a millionaire. This always seemed like something <em>other</em> people (predominantly male?) achieved. <span style="color:#d40202; font-weight: bold">I never even tried striving for it.</span>
 
-My entepreneurial ventures have started to question this <em>taken-for-granted</em> mindset. When you think about equity and valuation, you inherently think about money and becoming a millionaire.
+<br>My entepreneurial ventures have started to question this <em>taken-for-granted</em> mindset. When you think about equity and valuation, you inherently think about money and becoming a millionaire. I started to question <span style="color:#d40202; font-weight: bold">why not</span> make <em>becoming a millionaire</em> a more active goal. It's not about making money more important to us, but more about where such a <span style="color:#d40202; font-weight: bold">new mindset can take us to. </span>
 
-I started to question <span style="color:#d40202; font-weight: bold">why not</span> make <em>becoming a millionaire</em> a more active goal. It's not about making money more important to us, but more about where such a <span style="color:#d40202; font-weight: bold">new mindset can take us to. </span>
-
-It was kind of like that, when I was 21, working for a consulting company as a student and my mentor suggested that I should consider an MBA at Harvard in the future. 
+<br>It was kind of like that, when I was 21, working for a consulting company as a student and my mentor suggested that I should consider an MBA at Harvard in the future. 
 
 <em>Harvard…me?!</em>
 
