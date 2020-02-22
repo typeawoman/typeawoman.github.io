@@ -29,4 +29,3 @@ I think most of us have difficulties with stocks and determining which to buy wh
 As a starter, I think a good way to start is to play around with a depot-simulator where you get some game money and you can start playing around and invest into some shares and see how it goes.
 
 I'd be curious to learn how you think about personal investments and financial planning.
-
