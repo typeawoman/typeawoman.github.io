@@ -8,11 +8,12 @@ excerpt_separator: <!--more-->
 
 For being more productive in our every day, we use tools and hacks to structure, manage and get order into our lives. Here are some that I use day to day or cannot live without and I would love to hear about yours, as I am always open to discover new tools. :) <!--more-->
 
-<span style="color:#d40202; font-weight: bold"><a href="https://evernote.com/intl/de/" style="color: #d40202;font-weight: normal;text-decoration: underline;" target="_blank">Evernote</a></span> - I use Evernote for long-form typing and really appreciate its easy, mobile and clean design. I pretty much use it every day for reflection and journal writing.
 
-<span style="color:#d40202; font-weight: bold">Moleskine/Notes</span> - I used to rely heavily on Wunderlist for to dos, but ever since it got bought by Microsoft I reverted back to good old Moleskine <a href="https://us.moleskine.com/volant-journal-black/p0413" style="color: #d40202;font-weight: normal;text-decoration: underline;" target="_blank">notebook</a> for jotting down to dos and notes. I also use Notes on my iPhone for to dos.
+<span style="color:#d40202; font-weight: bold"><a href="https://evernote.com/intl/de/" style="color: #d40202;font-weight: bold;text-decoration: underline;" target="_blank">Evernote</a></span> - I use Evernote for long-form typing and really appreciate its easy, mobile and clean design. I pretty much use it every day for reflection and journal writing.
 
-<span style="color:#d40202; font-weight: bold"><a href="https://whereby.com/" style="color: #d40202;font-weight: normal;text-decoration: underline;" target="_blank">Whereby</a></span> - This is by far the easiest and most intuitive video conferencing tool I have come across. No dial-ins, no downloads, no hiccups. You have a virtual room, and you share the link with the other party. That's it - great for remote work.
+<span style="color:#d40202; font-weight: bold">Moleskine/Notes</span> - I used to rely heavily on Wunderlist for to dos, but ever since it got bought by Microsoft I reverted back to good old Moleskine <a href="https://us.moleskine.com/volant-journal-black/p0413" style="color: #d40202;font-weight: bold;text-decoration: underline;" target="_blank">notebook</a> for jotting down to dos and notes. I also use Notes on my iPhone for to dos.
+
+<span style="color:#d40202; font-weight: bold"><a href="https://whereby.com/" style="color: #d40202;font-weight: bold;text-decoration: underline;" target="_blank">Whereby</a></span> - This is by far the easiest and most intuitive video conferencing tool I have come across. No dial-ins, no downloads, no hiccups. You have a virtual room, and you share the link with the other party. That's it - great for remote work.
 
 <span style="color:#d40202; font-weight: bold"><a href="https://www.google.com/photos/about/" style="color: #d40202;font-weight: normal;text-decoration: underline;" target="_blank">Google Photos</a></span> - I like the powerful image-recognition feature to search text-to-image. Best way to find "passports", "presentation", "love" - try it :)
 
