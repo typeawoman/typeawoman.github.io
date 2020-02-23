@@ -15,7 +15,7 @@ For being more productive in our every day, we use tools and hacks to structur
 
 <span style="color:#d40202; font-weight: bold"><a href="https://whereby.com/" style="color: #d40202;font-weight: bold;text-decoration: underline;" target="_blank">Whereby</a></span> - This is by far the easiest and most intuitive video conferencing tool I have come across. No dial-ins, no downloads, no hiccups. You have a virtual room, and you share the link with the other party. That's it - great for remote work.
 
-<span style="color:#d40202; font-weight: bold"><a href="https://www.google.com/photos/about/" style="color: #d40202;font-weight: normal;text-decoration: underline;" target="_blank">Google Photos</a></span> - I like the powerful image-recognition feature to search text-to-image. Best way to find "passports", "presentation", "love" - try it :)
+<span style="color:#d40202; font-weight: bold"><a href="https://www.google.com/photos/about/" style="color: #d40202;font-weight: bold;text-decoration: underline;" target="_blank">Google Photos</a></span> - I like the powerful image-recognition feature to search text-to-image. Best way to find "passports", "presentation", "love" - try it :)
 
 <span style="color:#d40202; font-weight: bold">WhatsApp and WeChat</span> - I use both a lot for work, and I find communication with colleagues, clients and others much more efficient than e-mail or slack, because they are typically more responsive on chat.
 
