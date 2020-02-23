@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 For being more productive in our every day, we use tools and hacks to structure, manage and get order into our lives. Here are some that I use day to day or cannot live without and I would love to hear about yours, as I am always open to discover new tools. :) <!--more-->
-
+<br>
 
 <span style="color:#d40202; font-weight: bold"><a href="https://evernote.com/intl/de/" style="color: #d40202;font-weight: bold;text-decoration: underline;" target="_blank">Evernote</a></span> - I use Evernote for long-form typing and really appreciate its easy, mobile and clean design. I pretty much use it every day for reflection and journal writing.
 
