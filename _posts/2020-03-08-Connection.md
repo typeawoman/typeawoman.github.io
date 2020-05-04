@@ -12,20 +12,20 @@ There are many ways to describe this elusive and hard-to-pinpoint force between 
 
 In my opinion, there are two elements that make us connect with someone<!--more-->:<br>
 
-<p><b>Feeling understood & heard</b><br>
+<<b>Feeling understood & heard</b><br>
 When we feel that someone really truly "gets us" and our opinion matters and gets acknowledged, then we feel connected to this person.
 
 I believe that this innate and <em>inherently self-centered</em> human need for understanding <span style="color:#d40202; font-weight: bold">trumps all other things we crave for in someone</span> like good-looking, smart, treating us well etc. At the end of the day, what really matters to us is <span style="color:#d40202; font-weight: bold">how we feel.</span> 
 
-Part of what we should therefore be striving for are people who <span style="color:#d40202; font-weight: bold">provide us a platform to share and have the ability to listen and react to what we say.</span></p>
+Part of what we should therefore be striving for are people who <span style="color:#d40202; font-weight: bold">provide us a platform to share and have the ability to listen and react to what we say.</span>
 
-<p><b>Feeling similar</b>
-Part of what makes us feel understood is how much we feel we are similar to each other. Needless to say, similarity can be expressed in values, upbringing, where we are from or shared experiences.<span style="color:#d40202; font-weight: bold"> It forms the trust we need to open up and share.</span></p>
+<b>Feeling similar</b>
+Part of what makes us feel understood is how much we feel we are similar to each other. Needless to say, similarity can be expressed in values, upbringing, where we are from or shared experiences.<span style="color:#d40202; font-weight: bold"> It forms the trust we need to open up and share.</span>
 
-<p><b>Why it matters</b>
+<b>Why it matters</b>
 These elements explain why sometimes we go on a date and it just "clicks" and we can spend hours talking like there is no tomorrow.
 
-It feels like we have known the person for a long time. We describe the connection as light and natural and we feel comfortable and happy that <em>we can be ourselves around that person.</em></p>
+It feels like we have known the person for a long time. We describe the connection as light and natural and we feel comfortable and happy that <em>we can be ourselves around that person.</em>
 
 <span style="color:#d40202; font-weight: bold">At the end of the day, a great encounter between two people is a pingpong of <em>mutually feeling understood and similar.</em></span>
 

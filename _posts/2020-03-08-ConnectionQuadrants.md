@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What constitutes connection
+title: The four connection quadrants
 categories: Love
 tags: [love, dating, connection, chemistry]
 excerpt_separator: <!--more-->
