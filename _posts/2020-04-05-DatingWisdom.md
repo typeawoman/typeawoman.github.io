@@ -6,7 +6,7 @@ tags: [love, dating, boyfriend, partner, test]
 excerpt_separator: <!--more-->
 ---
 
-<p style="text-align:right"> By Isa </p>
+<p style="text-align:right; font-size: 12px;"> By Isa </p>
 
 <p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;"><span style="font-size:16px"><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif">Today I would like to share with you my </font><span style="color:#d40202"><font face="helvetica neue, helvetica, arial, verdana, sans-serif"><strong>Principles for&nbsp;Dating</strong></font></span><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif">. I am not a dating expert, but since I moved a lot (6 times within 7 years), dating was an integral part for me to feel home at a new place. Over the years, I have gathered some learnings or&nbsp;<em>personal truths</em> that have helped me navigate the turbulent sea of love and relationships.<br>
 <br>
