@@ -6,7 +6,7 @@ tags: [crises, financials, portfolio, investment, finance]
 excerpt_separator: <!--more-->
 ---
 
-<p style="text-align:right; font-size: 12px;">  By Julia </p><br>
+<p style="text-align:right; font-size: 12px;">  By Julia </p>
 <p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;"><span style="font-size:16px"><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif">While I am at home these days, I got to catch up on some side topics such as taking care of my financial assets, and I have to&nbsp;admit I was <em>prohibitively careless with it, </em>especially during this crisis. Hence, I’ve been reading up on this topic a lot and&nbsp;would like to share my insights on the question of</font><span style="color:#d40202"><font face="helvetica neue, helvetica, arial, verdana, sans-serif"><strong> how to build up a long-term investment portfolio and make it crisis proof</strong></font></span><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif">.<br><!--more-->
 &nbsp;<br>
 Overall these 5 elements tend to come up in a balanced portfolio: </font></span><br>
