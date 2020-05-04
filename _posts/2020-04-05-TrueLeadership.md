@@ -1,0 +1,18 @@
+---
+layout: post
+title: True leadership is about people
+categories: Leadership
+tags: [leadership, people, communication, hardthings]
+excerpt_separator: <!--more-->
+---
+
+<p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;"><span style="font-size:16px"><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif">One thing Covid-19 made crystal clear to me is what leadership is really about. I remembered learning about different leadership styles in university;&nbsp;I was asked to reflect on my own&nbsp;leadership style during my consulting years; and I have observed and encountered many good and probably many<em> more bad leaders</em> during my career.<br>
+<br>
+Couple of days ago, I experienced the worst possible&nbsp;leadership: My manager <em>forwarded</em> an e-mail from the CFO with a proposed&nbsp;salary&nbsp;cut&nbsp;and&nbsp;requested me to accept it<em>&nbsp;</em>as the cut<em>&nbsp;wasn't too bad compared to others.</em> That's it. The email also seemed like it was hastily typed, perhaps my manager wanted to get down to a clean inbox and this particular email was in the way.</font><br>
+<br>
+<span style="color:#d40202"><font face="helvetica neue, helvetica, arial, verdana, sans-serif"><strong>It was the worst delivery possible</strong></font></span><!--more--><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif">. These are extraordinary times, we all know it. But true leaders would have not compared one's&nbsp;salary cut with any other person's cut - because frankly speaking, it doesn't matter. A salary cut is shit. Period.&nbsp;And there is no right-sizing or putting this into any <em>right</em> light. </font><span style="color:#d40202"><font face="helvetica neue, helvetica, arial, verdana, sans-serif"><strong>True leaders would have provided acknowledgement of the bad situation, compassion for the cut and encouragement for the future</strong>.</font></span><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif"> I made a mental note to express that when I had to tell my own team about their salary cut and I would encourage you to do so too, if you should be in this situation.</font></span><br>
+<br>
+<span style="font-size:16px"><span style="color:#d40202"><font face="helvetica neue, helvetica, arial, verdana, sans-serif"><strong>On a general level,&nbsp;I realize that excellent business (wo)men don't necessarily translate into great leaders</strong>.</font></span><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif"> Most people I have encountered tend to be rationale and know how to run a business, but&nbsp;many&nbsp;suck at managing&nbsp;people.<br>
+<br>
+At its core,&nbsp;<em>leadership</em>&nbsp;is a concept of war. The challenging task of a war leader is&nbsp;to lead people into battle, pump them up even though there is a high chance that they may&nbsp;die. </font><span style="color:#d40202"><font face="helvetica neue, helvetica, arial, verdana, sans-serif"><strong>A great business leader is someone who not only&nbsp;is strategic and has a plan, but&nbsp;is also capable of providing&nbsp;guidance, care and --at times--&nbsp;hope to employees. </strong></font></span><font face="helvetica neue, helvetica, arial, verdana, sans-serif">In my opinion, this is the only leadership style that matters.</font></span><br>
+&nbsp;</p>

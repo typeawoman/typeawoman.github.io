@@ -1,0 +1,20 @@
+---
+layout: post
+title: Doing good
+categories: Leadership
+tags: [leadership, good, solidarity, empathy]
+excerpt_separator: <!--more-->
+---
+
+<p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;"><span style="font-size:16px"><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif">I don't know about you, but I feel really weird these days:&nbsp;I don't feel particularly happy, but I cannot say that I feel particularly sad either.<br>
+<br>
+Couple of weeks ago, I may have felt anxious, about work, abouth the future, but today, it seems like it doesn't bother me as much anymore.&nbsp;</font><br>
+<br>
+<span style="color:#d40202"><font face="helvetica neue, helvetica, arial, verdana, sans-serif"><strong>It is remarkable to see how the brain switches into&nbsp;survival mode:</strong></font></span><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif"> The lockdown is like running a marathon, if you sprinted the first 5km, you wouldn't last the last 37km, so similarly, your brain&nbsp;stops worrying about things you&nbsp;cannot control anyways and instead preserves energy to fret about things you <em>can actually</em> influence and make a difference. </font><strong><span style="color:#d40202"><font face="helvetica neue, helvetica, arial, verdana, sans-serif">And there is a lot we can do!</font></span></strong><br><!--more-->
+<br>
+<font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif">In this wait mode and somewhat numb state, I have decided to shift my energy and focus on </font><span style="color:#d40202"><font face="helvetica neue, helvetica, arial, verdana, sans-serif"><strong>doing good</strong></font></span><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif">. I have started to deliver self-made food to friends for a change of palette under lockdown;&nbsp;I have signed up to mentor current MBA students of my universities, because they cannot have the same amazing MBA experience right now we were fortunate to have and I also created an internship opportunity for them to be part of our crisis management, even though I hate to say that I don't have the means to promise them a full-time job afterwards. I am also advising&nbsp;entrepreneurs&nbsp;that are struggling through this slippery time and overall I am the biggest cheerleader for my airline colleagues day after day, when they feel down after receiving another bad work news or when they look into their bleak future.<br>
+<br>
+Yes, I worry about all of it too, but helping others&nbsp;has not only&nbsp;made my own worries smaller, but more importantly has</font><span style="color:#d40202"><font face="helvetica neue, helvetica, arial, verdana, sans-serif"><strong>&nbsp;filled me up with a profound sense of purpose and energy</strong></font></span><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif"> -- despite the extra hours and feeling busier than ever.<br>
+<br>
+For some of you, the lockdown is being loosened, but even still, no matter whether you are still going through the pandemic, or are trying to make sense of the aftermath of this&nbsp;pandemic,</font><span style="color:#d40202"><font face="helvetica neue, helvetica, arial, verdana, sans-serif"><strong> </strong></font><strong><font face="helvetica neue, helvetica, arial, verdana, sans-serif">do something good</font><font face="helvetica neue, helvetica, arial, verdana, sans-serif">. For others and for yourself. Even the smallest gestures do matter</font><font face="helvetica neue, helvetica, arial, verdana, sans-serif">.&nbsp;</font></strong></span></span><br>
+&nbsp;</p>
