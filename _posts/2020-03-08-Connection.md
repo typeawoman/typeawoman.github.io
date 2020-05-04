@@ -12,7 +12,7 @@ There are many ways to describe this elusive and hard-to-pinpoint force between 
 
 In my opinion, there are two elements that make us connect with someone<!--more-->:<br>
 
-<<b>Feeling understood & heard</b><br>
+<b>Feeling understood & heard</b><br>
 When we feel that someone really truly "gets us" and our opinion matters and gets acknowledged, then we feel connected to this person.
 
 I believe that this innate and <em>inherently self-centered</em> human need for understanding <span style="color:#d40202; font-weight: bold">trumps all other things we crave for in someone</span> like good-looking, smart, treating us well etc. At the end of the day, what really matters to us is <span style="color:#d40202; font-weight: bold">how we feel.</span> 
