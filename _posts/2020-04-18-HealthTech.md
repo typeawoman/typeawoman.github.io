@@ -6,7 +6,8 @@ tags: [leadership, healthtech, startup, innovation, productmanagement]
 excerpt_separator: <!--more-->
 ---
 
-<p style="text align:right"> By Liudmila </p><br>
+<p style="text-align:right"> By Liudmila </p>
+
 <p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;"><span style="font-size:16px"><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif">In the current fight against COVID-19, as we are furiously trying to expedite the development of a vaccine, I start to hear from my startup friends: <em>I wish I worked in healthcare to really make an impact</em>&nbsp;or&nbsp;<em>I wish I could apply my start-up mentality to speed up the process</em>. As a startuper&nbsp;at heart, I strongly resonate with them.&nbsp;<br>
 <br>
 However, then I realize that perhaps for once, in drug discovery or technology applied to human lives, </font><span style="color:#d40202"><font face="helvetica neue, helvetica, arial, verdana, sans-serif"><strong>there is a reason for why it is good to have&nbsp;red tape and long processes, namely to protect lives.</strong></font></span><br>
