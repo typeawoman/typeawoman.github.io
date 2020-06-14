@@ -6,7 +6,7 @@ tags: [author, china, chinesehistory, memoir, autobiography]
 excerpt_separator: <!--more-->
 ---
 
-<p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;"><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif"><span style="font-size:16px">The book is about three Chinese protagonists, the grandmother, the mother and the daughter and their respective <em>true</em> life stories in China.</span></font></p><br><br>
+<p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;"><font color="#202020" face="helvetica neue, helvetica, arial, verdana, sans-serif"><span style="font-size:16px">The book is about three Chinese protagonists, the grandmother, the mother and the daughter and their respective <em>true</em> life stories in China.</span></font></p>
 
 ![ThreeDaughers](/images/threedaughter.png "Three Daughters of China")
 
