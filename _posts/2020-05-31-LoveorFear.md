@@ -2,7 +2,7 @@
 layout: post
 title: Love or Fear
 categories: Leadership
-tags: [leaders, empathy, inspiration, leadership]
+tags: [leaders, empathy, inspiration, leadership, hbs, psychology, leadershipstyle]
 excerpt_separator: <!--more-->
 ---
 
@@ -57,3 +57,4 @@ Here is a fantastic <a href="https://drive.google.com/file/d/1h6Wdg-pCF1XP9nNVYS
 Moreover, a&nbsp;manager that is strongly disliked will hardly ever be considered a good leader. Leaders, that are "too soft" on the other hand, may be "everyone's darling" but may not have authority or get things done.<br>
 <br>
 What leaders do we want to be? Most likely a blend of both...</span></font></p>
+![LoveandFear](/images/style.png "HBS Love and Fear")
