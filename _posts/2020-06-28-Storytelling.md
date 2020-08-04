@@ -14,7 +14,7 @@ While the webinar recording is not available, here is a quick 3-min.&nbsp;video 
  <p valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #202020;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;">Here is how to think about good storytelling:<br>
  	<br>
 
- <iframe width="420" height="315" src="https://youtu.be/2dGfcGJugT4" frameborder="0" allowfullscreen></iframe>
+ <iframe width="420" height="315" src="https://youtu.be/2dGfcGJugT4" frameborder="0" ></iframe>
 <br>
 <strong>Objective storytelling</strong>: The whole point of you opening your mouth is to&nbsp;
 
