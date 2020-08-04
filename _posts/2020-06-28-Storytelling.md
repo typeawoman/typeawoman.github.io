@@ -10,8 +10,8 @@ excerpt_separator: <!--more-->
 <br>
 Probably not the first time you hear that? This is a small reminder of the things to keep in mind when speaking about <em>anything</em> with <em>anyone, </em>by&nbsp;<a href="https://www.linkedin.com/in/nbearden/?originalSubdomain=sg" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #d40202;font-weight: normal;text-decoration: underline;">Neil Bearden</a>, an intense and bad-ass guy who teaches&nbsp;<em>Storytelling</em> at INSEAD.<br>
 <br>
-While the webinar recording is not available, here is a quick <a href="https://youtu.be/2dGfcGJugT4" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #d40202;font-weight: normal;text-decoration: underline;">3-min.&nbsp;video</a> by Neil that illustrates his storytelling points. It won't require sound on and I can only <strong>highly recommend</strong> taking those 3 minutes to watch it.</p>
- <p valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #202020;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;">
+While the webinar recording is not available, here is a quick <a href="https://youtu.be/2dGfcGJugT4" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #d40202;font-weight: normal;text-decoration: underline;">3-min.&nbsp;video</a> by Neil that illustrates his storytelling points. It won't require sound on and I can only <strong>highly recommend</strong> taking those 3 minutes to watch it.
+
  	<br>
 
  <!--iframe width="420" height="315" src="https://youtu.be/2dGfcGJugT4" frameborder="0" ></iframe-->
@@ -56,4 +56,4 @@ As is the main point in his video.<br>
 Noone is born a storyteller and<span style="color:#d40202"><strong> it is a muscle that we must all train</strong></span>. So even in the least important conversations we have (how was your day?), it is good to keep those easy-to-remember tips in mind :)<br>
 &nbsp;
 <hr>
-                        </p>
+</p>
