@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trust your gut
+title: Trust Your Gut
 categories: Life
 tags: [life, love, people, gut, self, confidence]
 excerpt_separator: <!--more-->
@@ -12,7 +12,7 @@ I managed to get into a relationship during lockdown and it was one of those lov
 <br>
 It turns out that my gut wasn't so wrong after all. We <strong>didn't</strong> make it and while the reflection process will still take a bit of time, here are three immediate things that I realize:<br>
 <br>
-<span style="color:#d40202"><strong>Good ingredients don't lead to good cakes.</strong></span><br>
+<span style="color:#d40202"><strong>Good ingredients don't lead to good cakes.</strong></span><br><!--more-->
 Relationships are like cake baking, you may have really good ingredients (this one ticked off quite a few boxes like&nbsp;similar backgrounds, cultural openness, stable person), but it doesn't mean you know how to bake a good cake&nbsp;together.<br>
 <br>
 In particular with this one, the oven was a bit too hot and not only did the flour rise too quickly but also the edges got burned pretty fast. In other words, the relationship was under a pressure cooker during lockdown (we saw each other too often, talked way too serious to soon), and we jumped from being colleagues to feeling like being in a six-year long relationship, skipping the dating phase. Moreover, we didn't blend well and didn't find a communication wavelength&nbsp;that worked for the both of us.<br>
@@ -20,7 +20,7 @@ In particular with this one, the oven was a bit too hot and not only did the flo
 The gist: A good relationship needs some good&nbsp;active flour&nbsp;<em>stirring</em> and time to build at a lower temperature. Literally.<br>
 <br>
 <strong><span style="color:#d40202">Trust your gut.&nbsp;</span></strong><br>
-I cannot repeat it more often, but TRUST YOUR GUT.<br><!--more-->
+I cannot repeat it more often, but TRUST YOUR GUT.<br>
 <br>
 By now, life should have taught us that what we want and what we are willing to negotiate is <em>reasonable</em>. We need to listen to ourselves, and trust that what we think —or rather feel—&nbsp;has some <em>ground </em>(otherwise we wouldn't think it, right?).<br>
 <br>
