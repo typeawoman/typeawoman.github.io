@@ -10,8 +10,8 @@ excerpt_separator: <!--more-->
 <br>
 The book is called<em>&nbsp;<a href="https://www.reboot.io/book/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #d40202;font-weight: normal;text-decoration: underline;">Reboot: Leadership and the Art of Growing Up</a></em>&nbsp;by Jerry Colonna, who is a start-up CEO coach. The premise of the book is that you can only fully achieve your potential as a leader, if you <em><span style="color:#d40202"><strong>"sort through the emotional baggage that is holding you back professionally, and even more important, in your relationships."</strong></span></em>
 
-![reboot](/images/reboot.jpg "Reboot")<!--more-->
-
+![reboot](/images/reboot.jpg "Reboot")
+<!--more-->
 
 So I sat down with myself and started answering some of the questions the book poses to me, and ladies, I cannot tell you how <em>mind-opening</em> it was to make some of those subconscious undercurrents more conscious to myself.<br>
 <br>
